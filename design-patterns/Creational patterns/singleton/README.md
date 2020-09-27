@@ -17,5 +17,5 @@ In addition to the aforementioned, there are other related aspects, such as thre
 **Note**: Any pattern implemented in the wrong context would make it an "anti-pattern". :point_left:
 
 ## References
-* [Michael Safyan](https://www.michaelsafyan.com/tech/design/patterns/singleton#:~:text=In%20the%20Singleton%20pattern%2C%20there,is%20not%20the%20Singleton%20pattern.)
+* [Michael Safyan](https://www.michaelsafyan.com/tech/design/patterns/singleton)
 * [geeksforgeeks.org](https://www.geeksforgeeks.org/singleton-design-pattern/)
