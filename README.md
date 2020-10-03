@@ -15,7 +15,7 @@ These patterns provide various object creation mechanisms, which increase flexib
 - [ ] Builder
 - [ ] Factory Method
 - [ ] Object Pool
-- [ ] Prototype
+- [x] Prototype
 - [x] Singleton
 
 # Structural patterns
