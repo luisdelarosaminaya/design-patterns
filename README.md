@@ -15,8 +15,8 @@ These patterns provide various object creation mechanisms, which increase flexib
 - [ ] Builder
 - [ ] Factory Method
 - [ ] Object Pool
-- [x] Prototype
-- [x] Singleton
+- [x] [Prototype](https://github.com/luisdelarosaminaya/design-patterns/tree/master/design-patterns/creational-patterns/prototype)
+- [x] [Singleton](https://github.com/luisdelarosaminaya/design-patterns/tree/master/design-patterns/creational-patterns/singleton)
 
 # Structural patterns
 These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
