@@ -4,7 +4,7 @@
 
 # Description
 
-Facade pattern is a [structural pattern](https://github.com/luisdelarosaminaya/design-patterns/tree/master/design-patterns/structural-patterns/facade). Its objective is to provide a simple interface to interact with other components.
+Facade pattern is a [structural pattern](https://github.com/luisdelarosaminaya/design-patterns#structural-patterns). Its objective is to provide a simple interface to interact with other components.
 
 Sometimes we are working with third-party frameworks/libraries, and in many cases our code only requires a limited set of functionalities from these tools. Facade provides an interface for interacting with these tools in a simpler way. Also, very important, it allows us to decouple our code from the frameworks/libraries that we are using.
 </br>
