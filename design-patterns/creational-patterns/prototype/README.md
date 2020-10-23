@@ -4,7 +4,7 @@
 
 # Description
 
-The Prototype pattern is a [creational pattern](https://github.com/luisdelarosaminaya/design-patterns#creational-patterns). Its objective is to create a clone or copy of a previously instantiated object.
+Prototype pattern is a [creational pattern](https://github.com/luisdelarosaminaya/design-patterns#creational-patterns). Its objective is to create a clone or copy of a previously instantiated object.
 
 I found this real world analogy on [refactoring.guru](https://refactoring.guru/design-patterns/prototype):
 </br>
