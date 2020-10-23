@@ -25,7 +25,7 @@ These patterns explain how to assemble objects and classes into larger structure
 - [ ] Bridge
 - [ ] Composite
 - [ ] Decorator
-- [ ] Facade
+- [x] [Facade](https://github.com/luisdelarosaminaya/design-patterns/tree/master/design-patterns/structural-patterns/facade)
 - [ ] Flyweight
 - [ ] Private Class Data
 - [ ] Proxy
