@@ -4,7 +4,7 @@
 
 # Description
 
-The Singleton pattern is a [creational pattern](https://github.com/luisdelarosaminaya/design-patterns#creational-patterns). Its objective is to always provide the same object when instantiating a class.
+Singleton pattern is a [creational pattern](https://github.com/luisdelarosaminaya/design-patterns#creational-patterns). Its objective is to always provide the same object when instantiating a class.
 
 A commonly used example is a database connection: to avoid the cost of creating a new connection object for each interaction with the database, the implementation of the singleton pattern would be an option to consider.
 
