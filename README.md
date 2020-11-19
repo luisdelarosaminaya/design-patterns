@@ -42,7 +42,7 @@ These patterns are concerned with algorithms and the assignment of responsibilit
 - [ ] Null Object
 - [ ] Observer
 - [ ] State
-- [ ] Strategy
+- [x] [Strategy](https://github.com/luixcode/design-patterns/tree/master/design-patterns/behavioral-patterns/strategy)
 - [ ] Template method
 - [ ] Visitor
 
