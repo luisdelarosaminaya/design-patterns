@@ -4,7 +4,7 @@
 
 # Description
 This repository was created in order to learn/practice the different design patterns.
-I am going to use JavaScript (_although certainly the object model of this language is not the most ideal_) to practice the language, while I take my first steps in some framework like Vue.js, Angular, and/or React.
+I am going to use JavaScript (_although certainly the object model of this language is not the most ideal_) to practice the language.
 
 I do not rule out using some other language in the future for this project.
 
