@@ -1,14 +1,9 @@
 # Design patterns
 
-![design-patterns](https://github.com/luisdelarosaminaya/design-patterns/blob/master/images/design-patterns.png)
+## Description
+This repository was created to learn/practice design patterns. The programming language is irrelevant, so I will use the one I am using/learning at the moment.
 
-# Description
-This repository was created in order to learn/practice the different design patterns.
-I am going to use JavaScript (_although certainly the object model of this language is not the most ideal_) to practice the language.
-
-I do not rule out using some other language in the future for this project.
-
-# Creational patterns
+### Creational patterns
 These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
 
 - [ ] Abstract Factory
@@ -18,7 +13,7 @@ These patterns provide various object creation mechanisms, which increase flexib
 - [x] [Prototype](https://github.com/luisdelarosaminaya/design-patterns/tree/master/design-patterns/creational-patterns/prototype)
 - [x] [Singleton](https://github.com/luisdelarosaminaya/design-patterns/tree/master/design-patterns/creational-patterns/singleton)
 
-# Structural patterns
+### Structural patterns
 These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
 
 - [ ] Adapter
@@ -30,7 +25,7 @@ These patterns explain how to assemble objects and classes into larger structure
 - [ ] Private Class Data
 - [ ] Proxy
 
-# Behavioral patterns
+### Behavioral patterns
 These patterns are concerned with algorithms and the assignment of responsibilities between objects.
 
 - [ ] Chain of responsibility
@@ -46,5 +41,5 @@ These patterns are concerned with algorithms and the assignment of responsibilit
 - [ ] Template method
 - [ ] Visitor
 
-## Mentions
+#### Mentions
 - The above definitions were taken from [refactoring.guru](https://refactoring.guru/design-patterns/catalog)
