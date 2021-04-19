@@ -1,6 +1,6 @@
 # Iterator pattern
 
-![iterator-pattern](https://github.com/luixcode/design-patterns/blob/dev/images/UML/iterator.png)
+![iterator-pattern](https://github.com/luixcode/design-patterns/blob/master/images/UML/iterator.png)
 
 # Description
 
